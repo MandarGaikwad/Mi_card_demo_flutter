@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+# Screens :
+<hr>
+<img src="screenshots/1.jpeg"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
