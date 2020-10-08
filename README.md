@@ -4,7 +4,7 @@ A new Flutter application.
 
 # Screens :
 <hr>
-<img src="screenshots/1.jpeg"/>
+<img src="screenshot/1.jpeg"/>
 
 ## Getting Started
 
