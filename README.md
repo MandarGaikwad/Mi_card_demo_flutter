@@ -3,8 +3,7 @@
 A new Flutter application.
 
 # Screens :
-<hr>
-<img src="screenshot/1.jpeg"/>
+<img src="screenshot/1.jpeg" width="200" height="400"/>
 
 ## Getting Started
 
